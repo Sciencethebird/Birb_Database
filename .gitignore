@@ -1,0 +1,11 @@
+
+*.pbxproj
+*.xcsettings
+*.plist
+*.xcuserstate
+*.xcscheme
+*.xcworkspacedata
+.DS_Store
+Birb_Database/.DS_Store
+Birb_Database/data/.DS_Store
+Birb_Database/header_files/.DS_Store
