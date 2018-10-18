@@ -1,0 +1,8 @@
+
+	Command List
+	- nw	add a new birb data
+	- sz	show numbers of data 
+	- ls	list all data
+	- dlt	delete a data by index
+	- ext	exit database
+	- st    show Birb_data.txt
